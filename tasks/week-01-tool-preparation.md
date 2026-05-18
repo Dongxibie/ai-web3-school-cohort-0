@@ -36,14 +36,19 @@
 
 | 工具 | 用途 | 状态 |
 |------|------|------|
-| MetaMask（浏览器插件） | 测试钱包，用于 Web3 基础课程的链上交互练习 | 待安装 |
-| Etherscan（区块浏览器） | 查询交易、合约状态，配合 Web3 网络章节学习 | 待使用 |
-| Remix IDE | 在线 Solidity 合约编写和测试，适合智能合约入门 | 待使用 |
+| **MetaMask**（浏览器插件） | 测试钱包，用于 Web3 基础课程的链上交互练习。已通过指引完成安装说明 | ✅ 已指引 |
+| **Etherscan**（区块浏览器） | 查询交易、合约状态，配合 Web3 网络章节学习 | 待使用 |
+| **Remix IDE** | 在线 Solidity 合约编写和测试，适合智能合约入门 | 待使用 |
+| **Sepolia 测试 ETH** | 通过水龙头领取，用于测试网 Gas 费 | 待领取 |
 | Hardhat / Foundry | 本地合约开发框架，用于后续实验和 Hackathon 项目 | 按需准备 |
 
-### 安装计划
+### 安装指南已确认
 
-1. **MetaMask** — Week 1 学习钱包和网络章节时安装，创建测试账户
+1. **MetaMask** — 已通过 Learning Agent 提供完整安装指引：
+   - 从 metamask.io/download 安装浏览器插件
+   - 创建新钱包，离线保存 12 个助记词
+   - 切换到 Sepolia / Holesky 测试网络
+   - 通过水龙头领取测试 ETH（如 sepoliafaucet.com）
 2. **Remix IDE** — 学习智能合约章节时直接使用网页版 (remix.ethereum.org)
 3. **Etherscan** — 配合网络和交易查询使用，无需安装
 
@@ -52,11 +57,13 @@
 - 所有 API Key、私钥、助记词 **绝不** 提交到公开仓库
 - 测试钱包使用单独创建的测试账户，不与主网资产关联
 - `.env` 文件已加入 `.gitignore`（如需要）
+- 学习阶段只使用 **测试网络** 和 **测试 ETH**
 
 ## 五、下一步计划
 
 - [ ] 加入 Telegram 社区
-- [ ] 安装 MetaMask 并创建测试钱包
+- [ ] 安装 MetaMask 并创建测试钱包（指引已提供，待用户确认完成）
+- [ ] 领取 Sepolia 测试 ETH
 - [ ] 熟悉 WCB 平台的课程和打卡入口
 - [ ] 准备 GLM 或其他 API Key 用于 AI 实验（存放在本地环境变量）
 
