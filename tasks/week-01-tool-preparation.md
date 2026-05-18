@@ -7,7 +7,7 @@
 
 | 工具 | 用途 | 状态 |
 |------|------|------|
-| Telegram | AI × Web3 School 社区沟通、课程通知、同学交流。加入 [t.me/aiweb3school](https://t.me/aiweb3school) | 待加入 |
+| Telegram | AI × Web3 School 社区沟通、课程通知、同学交流。已加入 [t.me/aiweb3school](https://t.me/aiweb3school) | ✅ 已加入 |
 | WCB 平台 | 课程观看、打卡提交、任务管理。入口: https://web3career.build/zh/programs/AI-Web3-School | 已就绪 |
 | GitHub | 学习仓库管理、开源协作、Proof-of-Work 展示。本仓库即为此用途 | ✅ 已就绪 |
 | Zoom | Bootcamp 线上会议、Office Hour 参与 | 按需准备 |
@@ -61,7 +61,7 @@
 
 ## 五、下一步计划
 
-- [ ] 加入 Telegram 社区
+- [x] 加入 Telegram 社区
 - [ ] 安装 MetaMask 并创建测试钱包（指引已提供，待用户确认完成）
 - [ ] 领取 Sepolia 测试 ETH
 - [ ] 熟悉 WCB 平台的课程和打卡入口
